@@ -1,0 +1,38 @@
+footer {
+    text-align: center;
+    background-color: white;
+    position: relative;
+    top: 400px;
+
+}
+
+.fa-facebook-square {
+    color: rgb(6, 6, 156);
+    margin-right: 20px;
+    cursor: pointer;
+    /* for pointer cursor */
+}
+
+.fa-youtube {
+    color: rgb(255, 0, 0);
+    margin-right: 20px;
+    cursor: pointer;
+    /* for pointer cursor */
+}
+
+.fa-instagram {
+    color: rgb(216, 43, 72);
+    margin-right: 20px;
+    cursor: pointer;
+    /* for pointer cursor */
+}
+
+.fa-brands {
+    font-size: 40px;
+}
+
+h5 {
+    color: rgb(14, 154, 201);
+    position: relative;
+    left: -10px;
+}
